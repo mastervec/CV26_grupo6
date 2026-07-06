@@ -1,0 +1,81 @@
+(CV26) mastervec@PICHAUP-3MNS6G0:~/lab4_arquivos$ python3 L4_cal.py
+QFontDatabase: Cannot find font directory /home/mastervec/miniconda3/envs/CV26/lib/python3.14/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /home/mastervec/miniconda3/envs/CV26/lib/python3.14/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /home/mastervec/miniconda3/envs/CV26/lib/python3.14/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /home/mastervec/miniconda3/envs/CV26/lib/python3.14/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory /home/mastervec/miniconda3/envs/CV26/lib/python3.14/site-packages/cv2/qt/fonts.
+Note that Qt no longer ships fonts. Deploy some (from https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+Camera matrix :
+
+[[1.26210228e+03 0.00000000e+00 5.81652745e+02]
+ [0.00000000e+00 1.25857913e+03 6.32353709e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+dist :
+
+[[-0.20189515  0.26302683 -0.00050061 -0.0081197  -0.12180509]]
+rvecs :
+
+(array([[0.06704714],
+       [0.10386596],
+       [0.03707826]]), array([[-0.56674198],
+       [ 0.45037637],
+       [-0.19415554]]), array([[-0.2062392 ],
+       [ 0.58402229],
+       [ 1.59424148]]), array([[-0.05355829],
+       [ 0.59435613],
+       [ 1.5785238 ]]), array([[-0.4368247 ],
+       [-0.09562103],
+       [-0.35737063]]), array([[-0.13788577],
+       [ 0.16331065],
+       [-0.15473741]]), array([[ 0.10609879],
+       [ 0.48992616],
+       [-0.01356024]]), array([[-0.10304999],
+       [-0.46659654],
+       [-1.4242065 ]]), array([[-0.52991214],
+       [-0.20232929],
+       [-1.43274128]]), array([[0.70252133],
+       [0.03282454],
+       [1.35986004]]), array([[0.35672387],
+       [0.70806627],
+       [1.59154213]]), array([[-0.52337981],
+       [-0.1631654 ],
+       [-0.74965021]]), array([[-0.45457957],
+       [-0.18457487],
+       [-0.78526203]]), array([[0.57643963],
+       [0.4617673 ],
+       [1.46653393]]))
+tvecs :
+
+(array([[-2.28405866],
+       [-0.4235417 ],
+       [14.48378661]]), array([[-2.91064007],
+       [-1.84566787],
+       [11.17298416]]), array([[ 5.69242157],
+       [-2.76394259],
+       [ 9.96920492]]), array([[ 6.66302512],
+       [-1.74309641],
+       [11.27112631]]), array([[-3.95315149],
+       [-1.77847778],
+       [11.28583913]]), array([[-2.64879201],
+       [-1.14543707],
+       [13.9831964 ]]), array([[-3.15741122],
+       [-0.24819763],
+       [11.32437215]]), array([[0.51320607],
+       [0.55204427],
+       [9.41424806]]), array([[-4.22129301],
+       [ 4.3825006 ],
+       [11.10592925]]), array([[ 3.26057586],
+       [-1.62713984],
+       [ 6.23382563]]), array([[ 6.01894598],
+       [-3.40845188],
+       [ 8.67573199]]), array([[-4.50968622],
+       [ 0.8003962 ],
+       [12.24207141]]), array([[-3.36747699],
+       [ 1.77012954],
+       [12.56991991]]), array([[ 5.18997685],
+       [-2.98369763],
+       [ 9.09730733]]))
